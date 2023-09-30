@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anwar
+- 👋 Hi, I’m Anwar
 - 👀 I’m interested in business analysis and generating crisp and valuable information.
 - 🌱 I’m currently learning SQL and Power BI 
 - 💞️ I’m looking to collaborate on learning and growing.
